@@ -1,4 +1,4 @@
-![Encabezado Carlos Méndez](header-banner.png)
+![Encabezado Carlos Méndez](github-header-banner.png)
 
 # 👨‍💻 Acerca de mí:
 Arquitecto de software con más de 12 años de experiencia en la creación de plataformas digitales de alto impacto. Combino un sólido backend con Laravel y un frontend moderno con React y TypeScript. Mi principal ventaja competitiva reside en los Sistemas de Información Geográfica (SIG): la integración de mapas y datos espaciales en aplicaciones web para resolver problemas logísticos complejos. He liderado equipos, implementado CI/CD y asesorado a desarrolladores. Busco un puesto donde pueda aplicar esta visión full-stack para crear productos SaaS que resuelvan problemas reales.<br><br>Tecnologías Clave: Laravel, PHP, React, JavaScript, MySQL, PostgreSQL, GeoServer, OpenLayers, Git, APIs REST.<br><br>Habilidades Blandas: Pensamiento crítico y analítico, Comunicación efectiva, Gestión y resolución de problemas, Trabajo en equipo, Adaptabilidad y resiliencia, Proactividad e innovación.
